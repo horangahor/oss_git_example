@@ -69,7 +69,7 @@
     * merge = 여러 버전을 합병하는 명령어  
     * diff = 차이점을 보는 명령어 
    
-  ![Image](git.png)
+  ![Image](https://github.com/horangahor/oss_git_example/blob/master/Git.png)
 ## Week2-3 Github, fork, pull request
  * **fork**
    * 타인의 원격 저장소에서 나의 원격 저장소로 프로젝트를 가져오는 것
